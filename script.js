@@ -1,7 +1,7 @@
 // Configuration
 // const IMAGE_FOLDER = 'protein_images';
 const IMAGE_FOLDER = 'https://proteinaging.oss-rg-china-mainland.aliyuncs.com'; // 或自定义域名
-const DEFAULT_IMAGE = 'NEFL_seq.10082.251';
+const DEFAULT_IMAGE = 'GDF15_seq.4374.45';
 const DEBOUNCE_DELAY = 300; // milliseconds
 
 // State
